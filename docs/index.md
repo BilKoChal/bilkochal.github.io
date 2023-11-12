@@ -25,8 +25,3 @@ Discover a world of possibilities for your WooCommerce store with our cutting-ed
 
 > "The customer support at GPLGit is top-notch. They go above and beyond to ensure our plugins work seamlessly with our WooCommerce store." - Happy Retailer
 
-### Get Started Today
-
-Explore our range of WordPress plugins and transform your WooCommerce store. Stay ahead of the curve with [Your Company Name] - Your trusted partner for e-commerce excellence.
-
-[Shop Now] button
