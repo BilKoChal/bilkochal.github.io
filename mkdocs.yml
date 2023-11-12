@@ -1,5 +1,11 @@
 site_name: GPLGit
 
+nav:
+  - 🏠 Home: index.md
+  - Woocoommerce:
+    - Amazon: 'woocommerce/woocommerce-amazon.md'
+    - Instagram: 'woocommerce/woocommerce-instagram.md'
+
 theme:
   name: material
 
